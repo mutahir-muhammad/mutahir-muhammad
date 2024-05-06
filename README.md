@@ -12,7 +12,7 @@ people can hangout and codejam! </p>
 
 - 🤝 I’m looking for help with *learning DSA and Python*
 
-- 📫 How to reach me *mutahir.khan44@yahoo.com*
+- 📫 How to reach me *mutahir328@gmail.com*
 
 - ⚡ Fun fact *I love writing, reading and music.*
 
