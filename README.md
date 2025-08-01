@@ -1,20 +1,20 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Mutahir</h1>
-<h3 align="center">A passionate frontend developer from Pakistan.</h3>
+<h3 align="center">A passionate Software Engineer.</h3>
 
-<p align="left">I am pursuing BS Software Engineering 🎓. I love the word "code" 💻👨‍💻 and I am currently learning new technologies. </p>
+<p align="left">I love the word "code" 💻👨‍💻 and I am currently learning new technologies. </p>
 <p align="left">Driven by a passion for literature 📚, creative writing ⚡, and music 🎧. </p> 
 <p align="left">I love to join friendly spaces where one can express themselves and code together and I aim to build a network where
 people can hangout and codejam! </p>   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mutahir-muhammad&label=Profile%20views&color=0e75b6&style=flat" alt="mutahir-muhammad" /> </p>
 
-- 🌱 I’m currently learning *Python*
+- 🌱 I’m currently learning *AI* , duh
 
-- 🤝 I’m looking for help with *learning DSA and Python*
+- 🤝 I’m looking for help with *learning Quantum Computing and AI*
 
 - 📫 How to reach me *mutahir328@gmail.com*
 
-- ⚡ Fun fact *I love writing, reading and music.*
+- ⚡ Fun fact *I love writing, reading, and music.*
 
 - 🐍 Fun fact 2 *I was a PreMed student who switched.*
 
